@@ -112,7 +112,7 @@
                     <div class="single-post row">
                         <div class="col-lg-12">
                             <div class="feature-img">
-                                <img class="img-fluid" src="img/blog/library.jpg" alt="">
+                                <img class="img-fluid" src="https://www.dsce.edu.in/images/Home/Library/library.JPG" alt="">
                             </div>
                         </div>
                         
