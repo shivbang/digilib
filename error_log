@@ -1,0 +1,444 @@
+[25-Apr-2019 16:48:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:48:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:20 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:22 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qzzxq1qzpvq1' for key 'group_key' in /home/cddharth/public_html/digilib/single-product.php on line 7
+[25-Apr-2019 16:49:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:44 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:47 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:48 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:51 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:52 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:54 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:57 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:49:59 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:00 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:01 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:02 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:50:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/single-product.php on line 8
+[25-Apr-2019 16:54:49 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 16:55:03 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 16:55:09 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 16:55:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 16:55:41 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:02:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:02:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:03:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:06:43 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:06:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:07:45 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:17 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:18 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:21 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq1qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:15:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:31 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq1qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:15:31 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:32 UTC] PHP Warning:  mysqli_query(): (21000/1242): Subquery returns more than 1 row in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:15:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:32 UTC] PHP Warning:  mysqli_query(): (21000/1242): Subquery returns more than 1 row in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:15:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:32 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq66666666666666666666666666666666666666666666666666666666666' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:15:32 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:33 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq444444444444444444444444444444444444444444444444444444qkqqq' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:15:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:33 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq3qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:15:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:33 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqinformation_schemaqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:15:33 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:34 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqcddharth_digilibqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:15:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:34 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqcddharth_wp670qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:15:34 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:46 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq0qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:15:46 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:50 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:53 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:15:56 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:17:58 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqcddharth_wp670@localhostqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:17:58 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:23:16 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:12 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq5qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:12 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqevent_typeqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:12 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqeventlistqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:12 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:13 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqtbl_usersqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:13 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqtbl_reservationsqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:13 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqtbl_holidaysqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:13 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:23 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq9qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:23 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqidqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:23 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqpwdqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:23 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqnameqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqphoneqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqaddressqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqemailqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqbdateqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqtypeqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqstatusqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqint(10)qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqvarchar(200)qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqvarchar(100)qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqvarchar(20)qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqvarchar(250)qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqvarchar(10)qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqvarchar(10)qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqvarchar(100)qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqvarchar(100)qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:24 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq9qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqDr. CM Josephqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqK G Hemalathaqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqlibrarianqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqDr. DR Ramesh Babuqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqDr.  A. R. Aswathaqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqadasd asd asd asd aqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqSara Manhaqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqsome addressesqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqDr. Radha Guptaqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq2018-11-23 04:13:00qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq2018-11-23 04:17:10qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:25 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq2018-11-23 04:17:10qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq2018-11-23 04:26:52qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqHOD-CSE@dayanandasagar.eduqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq2018-12-06 05:10:09qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq2018-12-20 10:00:08qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq2018-12-20 00:36:25qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq2018-11-23 04:44:16qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq2018-12-06 04:27:35qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqHOD-MBA@dayanandasagar.eduqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqlibrary@dayanandasagar.eduqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqHOD-Physics@dayanandasagar.eduqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq5qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq3qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqsaramanha6@gmail.comqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqcddharthsingh@gmail.comqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqHOD-MATH@dayanandasagar.eduqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq2qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqhod-tc@dayanandasagar.eduqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqhi@cddharthsingh.comqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:26 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq4qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqDepartment of CSEqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqDepartment of Physicsqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq998qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqLibraryqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq1000qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq6qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq7qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqDepartment of MBAqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq999qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqSara Manhaqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq9741913601qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq9972935935qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq8073724368qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqadminqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqHODPHYSICSqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqDepartment of Mathsqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqDepartment of ECEqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq8958657898qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqsiddharthqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:27 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqHODCSEqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq9686740241qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqLIBRARYqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqactiveqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq9999999999qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqactiveqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq9448466191qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq8956231245qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq8423790364qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqHODMBAqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqsaramanhaqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqteacherqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqactiveqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqcddharthqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqpasswordqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:28 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqteacherqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqHODMATHqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqHODECEqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqactiveqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqactiveqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqactiveqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqteacherqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqstudentqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqactiveqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqactiveqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqactiveqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqteacherqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqstudentqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqadminqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqteacherqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:29 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:24:30 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqteacherqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:24:30 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:25:55 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkq1qkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:25:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
+[25-Apr-2019 17:25:55 UTC] PHP Warning:  mysqli_query(): (23000/1062): Duplicate entry 'qxkkqbookdetailsqkqqq1' for key 'group_key' in /home/cddharth/public_html/digilib/category.php on line 135
+[25-Apr-2019 17:25:55 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/cddharth/public_html/digilib/category.php on line 136
